@@ -6,6 +6,7 @@ import { NavBarComponent } from './layouts/nav-bar/nav-bar.component';
 import { FooterComponent } from './layouts/footer/footer.component';
 import { HomeComponent } from './layouts/home/home.component';
 import { HeaderComponent } from './layouts/header/header.component';
+import { LandingPageComponent } from './layouts/landingsection/landing-page/landing-page.component';
 
 // import { DashboardComponent } from './layouts/dashboard/dashboard.component';
 
@@ -16,6 +17,7 @@ import { HeaderComponent } from './layouts/header/header.component';
     FooterComponent,
     HomeComponent,
     HeaderComponent,
+    LandingPageComponent,
 
     // DashboardComponent
   ],
